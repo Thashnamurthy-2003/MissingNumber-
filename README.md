@@ -1,1 +1,1 @@
-## MissingNumber- try this code it optimal and simple
+## MissingNumber- try this code it is optimal and simple
